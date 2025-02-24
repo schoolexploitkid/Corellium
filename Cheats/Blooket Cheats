@@ -1,25 +1,28 @@
-Website:
-https://blooketbot.glitch.me/
+# Blooket Cheats & Information
 
-Blooket Cheats:
-https://gitlab.com/blooket/blooket-cheats
+## 📌 Available Cheats & Resources
 
-Blooket Cheats Plus:
-https://github.com/randomstuff69/blooketcheatsplus
+### 🔗 Websites
+- **[BlooketBot](https://blooketbot.glitch.me/)** – Automated bot for Blooket.
+- **[Blooket Cheats (Updated)](https://gitlab.com/blooket/blooket-cheats)** – Actively maintained repository.
+- **[Blooket Cheats Plus](https://github.com/randomstuff69/blooketcheatsplus)** – Additional Blooket cheats and scripts.
+- **[Original Blooket GUI (Discontinued)](https://github.com/Minesraft2/Blooket-gui)** – Original cheat project (ceased due to C&D from Blooket).
+- **[Backup Repository (Not Updated)](https://github.com/Shploop/Blooket-Cheats)** – Backup copy, outdated.
 
-Original:
-https://github.com/Minesraft2/Blooket-gui
+## 📜 Project History
+- **Minesraft2** created the original Blooket GUI but received a cease-and-desist from Blooket, leading to their GitHub termination.
+- **05konz** took over and continued updates with permission but later had their GitHub account deleted.
+- **Current Development**: The latest updates are now available on GitLab.
 
-Unfortunately, minesraft2 got a cease and desistfromby Blooket (and got terminated from Github). 
-05konz would back it up with permission from minesraft2 and then proceed to start making updates for the project.
-Since 05konz's Github was deleted, they now update Blooket Cheats on Gitlab.
+## ⚙️ How to Use the Cheats
+### **Using the GUI Cheats (Purple Boxes)**
+1. **Drag the purple box into your bookmark bar.**
+2. Open Blooket and click on the saved bookmark.
 
-This was used as a backup (NOT UPDATED!):
-https://github.com/Shploop/Blooket-Cheats
+### **Using the Game Mode Cheats (Orange Boxes)**
+1. Click on the orange box for the cheat you want.
+2. Follow any on-screen instructions.
 
-How to use:
-If you want to use the GUIs (purple boxes), drag the boxes into your bookmark bar.
-Click the orange boxes for parts of game modes to use.
-
-WARNING: THIS WILL NOT WORK ON MANAGED CHROMEBOOKS ANYMORE UNLESS YOU DOWNGRADE TO A VERSION
-THAT LETS THEM WORK (JAVASCRIPT BOOKMARKLETS WERE PATCHED)
+## ⚠️ Important Warnings
+- **Managed Chromebooks**: These cheats **will not work** on managed Chromebooks unless you downgrade to a version where JavaScript bookmarklets are still functional.
+- **Potential Risks**: Using cheats may result in bans or account restrictions by Blooket. Use at your own risk.
