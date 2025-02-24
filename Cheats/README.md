@@ -1,9 +1,10 @@
-# Cheats
-## A collection of cheats for:
--> Blooket <br>
--> Edpuzzle <br>
--> Gimkit <br>
--> Kahoot <br>
--> Quizizz <br>
--> Quizlet <br>
--> and more! <br>
+Corellium Cheat Collection
+A Powerful Suite of Cheats for:
+-Blooket
+-Edpuzzle
+-Gimkit
+-Kahoot
+-Quizizz
+-Quizlet
+ And More!
+Unlock the full potential of your learning and gaming with Corellium's ultimate cheat collection. (mhm sure) 
