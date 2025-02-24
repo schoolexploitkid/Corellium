@@ -1,22 +1,26 @@
-Edpuzzle Cheats! This won't work on your chromebook if you are on a later version of chromeos that blocked javascript. However, you can probably use another device.
+# Edpuzzle Cheats
 
-BOOKMARK THIS:
+⚠️ **Note:** These cheats may not work on newer versions of ChromeOS due to security restrictions blocking JavaScript. If you're on a later version of ChromeOS, consider using another device.
+
+**Bookmark This:**
+```javascript
 javascript: fetch("https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js").then(r => r.text()).then(r => eval(r))
+```
 
-Features:
-1. Can fetch and display the multiple-choice answers for any Edpuzzle assignment
-2. Can automatically answer all the multiple-choice questions in an assignment
-3. Includes a video skipper which allows for arbitrary navigation within an assignment
-4. Has an option to prevent pausing the video when the tab is hidden
-5. Has a tool to change the video speed
-6. Shows various stats about the assignment
-7. Has a decent looking GUI
-8. No login or extension required
-9. Uses about:blank so it doesn't go into your browser history
-10. Works on private Edpuzzle videos
-11. Supports Edpuzzles embedded in Canvas and Schoology
+## Features:
+- **Multiple-choice answers**: Fetch and display all answers for any Edpuzzle assignment.
+- **Auto-answer**: Automatically answer all multiple-choice questions.
+- **Video skipper**: Skip to any point in the video, bypassing content you don’t want to watch.
+- **Prevents pausing**: Keeps the video running even when the tab is hidden.
+- **Speed control**: Adjust video speed to suit your preferences.
+- **Assignment stats**: View detailed stats about the assignment, including progress and completion data.
+- **User-friendly GUI**: Access all tools via a sleek and easy-to-use interface.
+- **No login required**: No need to log in or install any extensions.
+- **History safe**: Uses `about:blank` to avoid leaving any trace in your browser history.
+- **Private video support**: Works with private Edpuzzle videos.
+- **Canvas and Schoology compatibility**: Supports embedded Edpuzzles within Canvas and Schoology.
 
-Credits: 
-ading2210/vk6
-https://github.com/ading2210/edpuzzle-answers
-https://edpuzzle.hs.vc/
+## Credits:
+- **Creator**: [ading2210/vk6](https://github.com/ading2210/edpuzzle-answers)
+- **Original Repository**: [GitHub - Edpuzzle Answers](https://github.com/ading2210/edpuzzle-answers)
+- **Edpuzzle Website**: [edpuzzle.hs.vc](https://edpuzzle.hs.vc/)
