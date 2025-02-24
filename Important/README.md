@@ -6,7 +6,7 @@
 #### 📝 **Key Details to Keep in Mind:**
 
 - **Stay Updated**:  
-  Regularly check my [GitHub Profile](https://github.com/Bwrn) for the latest updates, projects, and contributions. It’s the hub for all things I’m working on! 
+  Regularly check my [GitHub Profile](https://github.com/Burvyn) for the latest updates, projects, and contributions. It’s the hub for all things I’m working on! 
 
 - **For Quick Responses**:  
   Email me at **[flqmze@gmail.com](mailto:flqmze@gmail.com)** for faster communication. I check this one frequently!
