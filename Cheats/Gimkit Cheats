@@ -1,9 +1,9 @@
-Cheats for Gimkit:
+# Gimkit Cheats
 
-https://github.com/VillainsRule/Gimmick
-https://github.com/TheLazySquid/GimkitCheat
+## Available Tools:
+- **[Gimmick (Self-Hosting for Chromebook)](https://github.com/VillainsRule/Gimmick)**
+- **[GimkitCheat (For ViolentMonkey, DevTools, and JavaScript)](https://github.com/TheLazySquid/GimkitCheat)**
 
-
-Notes:
--> Use gimmick for self hosting on chromebook
--> Use the regular if you have violentMonkey, inspect element/devtools, or javascript: is enabled
+## Usage Notes:
+- **For Chromebook Users**: Use **Gimmick** if you're self-hosting on a Chromebook.
+- **For Other Devices**: Use **GimkitCheat** if you have ViolentMonkey, inspect element/devtools, or if JavaScript: is enabled in your browser.
