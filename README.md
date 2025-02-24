@@ -55,17 +55,13 @@ Corellium/
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/Corellium.git
+   git clone https://github.com/Burvyn/Corellium.git
    ```
 2. **Navigate to the directory**
    ```sh
    cd Corellium
    ```
-3. **Run the setup script (if applicable)**
-   ```sh
-   ./setup.sh
-   ```
-4. **Explore and use Corellium's vast collection of tools and exploits!**
+3. **Explore and use Corellium's vast collection of tools and exploits!**
 
 ---
 
