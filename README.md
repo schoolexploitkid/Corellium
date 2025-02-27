@@ -20,33 +20,17 @@ Welcome to **Corellium**, your go-to repository for cutting-edge cheats, exploit
 
 ```
 Corellium/
-├── Alternatives/        # Alternative tools and resources
-├── Cheats/             # Collection of premium cheats and exploits
-├── Exploits/           # Advanced exploit tools and utilities
-├── Gxmes/              # Exclusive mods and game enhancements
-├── Hubs/               # Multi-functional hubs for streamlined usage
-├── Important/          # Essential resources and documentation
-├── Leisure/            # Entertainment and miscellaneous content
-├── Mixes (Prxes)/      # Mixed utilities and proxy-related tools
-├── OS/                 # OS-related scripts and modifications
-├── Prxes/              # Proxies and network-related tools
-├── Random/             # Miscellaneous tools and content
-├── Test/               # Testing scripts and experimental features
-├── Tutorials/          # Guides and tutorials for various tools
-├── css/                # Stylesheets and frontend design
-├── 404.html            # Custom 404 error page
-├── LICENSE             # Licensing information
-├── README.md           # Documentation and repository overview
-├── Websites.MD         # List of related and useful websites
-├── cloak.png           # Cloaking image asset
-├── credits.html        # Contributor and credits page
-├── exploits.html       # Webpage for exploits collection
-├── games.html          # Webpage for game modifications
-├── index.html          # Main landing page
-├── particles.js        # Particle effects script
-├── script.js           # Core JavaScript functionalities
-├── style.css           # Core stylesheet
-├── tutorials.html      # Webpage for tutorials and guides
+├── Advanced Cheats/      # Collection of advanced cheats and exploits for experienced users
+├── Entertainment/        # Miscellaneous entertainment content (e.g., media, games, etc.)
+├── Exploits and Tools/   # Exploits, cheat tools, and utilities for enhancing functionality
+├── Game Library/         # Collection of games and game mods for enhancing user experience
+├── Hubs/                 # Multi-functional hubs or central points for tool integration
+├── Important/            # Essential files, documentation, and resources for setup and use
+├── OS/                   # Operating system-related tools, scripts, and modifications
+├── Other Solutions/      # Alternative tools, resources, or methods that complement the project
+├── Prxes Collection/     # Collection of proxies and network-related utilities
+├── Random/               # Miscellaneous content or random tools that don't fit elsewhere
+├── Tutorials/            # Tutorials and guides for using various tools or parts of the repository
 ```
 
 ---
